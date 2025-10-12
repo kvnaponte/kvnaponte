@@ -6,24 +6,28 @@
 <h2>Hey there! I'm Kevin</h2>
 
 ---
-
 ### 👨‍💻 About Me
-💡 Passionate about technology, learning, and creating solutions that make a difference.  
-🎯 Focused on building strong foundations in programming and data analysis.  
-🌎 Always exploring new areas of knowledge and digital innovation.  
-📚 Currently pursuing a degree in **Systems Engineering**.  
-💬 I enjoy meaningful conversations about code, creativity, and life.
 
+<table>
+  <tr>
+    <td style="vertical-align: top; border: 0;">
+      <ul style="list-style: none; padding-left: 0; margin: 0;">
+        <li>💡 Passionate about technology, learning, and creating solutions that make a difference.</li>
+        <li>🎯 Focused on building strong foundations in programming and data analysis.</li>
+        <li>🌎 Always exploring new areas of knowledge and digital innovation.</li>
+        <li>📚 Currently pursuing a degree in <b>Systems Engineering</b>.</li>
+        <li>💬 I enjoy meaningful conversations about code, creativity, and life.</li>
+      </ul>
+    </td>
+    <td style="border: 0; padding-left: 20px;">
+      <img src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="300" height="210" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
 
 ---
@@ -40,8 +44,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:kvnaponte@gmail.com"><img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/kvnaponte"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" /></a>
+  <a href="mailto:kvnaponte@hotmail.com"><img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" /></a>
   <a href="https://github.com/kvnaponte"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
 </p>
 

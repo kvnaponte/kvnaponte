@@ -33,18 +33,31 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/kvnaponte">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"/>
-  </a>
+
+<p align="center" style="line-height:1;">
+  <!-- Contenedor con la línea base igual a la altura de la imagen mayor (160px) -->
+  <span style="display:inline-block; line-height:160px; vertical-align:middle;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"
+      height="160px"
+      alt="GitHub stats"
+      style="display:inline-block; vertical-align:middle; border:0;"/>
+  </span>
+
+  <span style="display:inline-block; line-height:160px; vertical-align:middle; margin-left:12px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"
+      height="120px"
+      alt="Top languages"
+      style="display:inline-block; vertical-align:middle; border:0;"/>
+  </span>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="mailto:kvnaponte@hotmail.com"><img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/kvnaponte"><img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" /></a>
+  <a href="mailto:kvnaponte@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kvnaponte"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 

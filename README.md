@@ -35,8 +35,8 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/kvnaponte">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 

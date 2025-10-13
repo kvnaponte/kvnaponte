@@ -2,8 +2,8 @@
 ![Kevin Aponte Banner](https://github.com/kvnaponte/assets/blob/main/Banner.png?raw=true)
 
 <!-- Encabezado con animación -->
-<img src="./assets/Hand%20Wave.gif" width="40" align="left"/> 
-<h2>Hey there! I'm Kevin</h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWYyZTRscTU0eXJyb25kNDhkNmN0ZmVkdzJ4MGd2cTl3cHgzZG5hcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40" align="left"/> 
+<h2>  Hey there! I'm Kevin</h2>
 
 ---
 ### 👨‍💻 About Me

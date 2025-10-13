@@ -27,8 +27,8 @@
 ---
 
 ### 🧠 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![VSCode](![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 

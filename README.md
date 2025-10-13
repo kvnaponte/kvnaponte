@@ -28,15 +28,15 @@
 
 ### 🧠 Tech Stack
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![VSCode](![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/kvnaponte">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kvnaponte&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnaponte&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 

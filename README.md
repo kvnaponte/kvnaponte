@@ -10,15 +10,15 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; border: 0;">
-      <ul style="list-style: none; padding-left: 0; margin: 0;">
-        <li>💡 Passionate about technology, learning, and creating solutions that make a difference.</li>
-        <li>🎯 Focused on building strong foundations in programming and data analysis.</li>
-        <li>🌎 Always exploring new areas of knowledge and digital innovation.</li>
-        <li>📚 Currently pursuing a degree in <b>Systems Engineering</b>.</li>
-        <li>💬 I enjoy meaningful conversations about code, creativity, and life.</li>
-      </ul>
-    </td>
+<td style="vertical-align: top; border: 0;">
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li>💡 Passionate about <b>technology, problem-solving, and clean digital design</b>.</li>
+    <li>⚙️ Experienced in <b>Excel automation, data organization, and analytical solutions</b> for real-world tasks.</li>
+    <li>💻 Currently strengthening my skills in <b>programming and systems engineering</b> to build more efficient tools.</li>
+    <li>🚀 Always learning, improving, and exploring new ways to simplify complex ideas through code.</li>
+    <li>💬 I enjoy meaningful conversations about <b>technology, creativity, and purpose</b>.</li>
+  </ul>
+</td>
     <td style="border: 0; padding-left: 20px;">
       <img src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="300" height="210" style="border-radius: 10px;">
     </td>
